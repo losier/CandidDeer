@@ -1,4 +1,4 @@
-### Hi there :rabbit2:
+### Hi there! :rabbit2:
 
 <!--
 **CandidDeer/CandidDeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
