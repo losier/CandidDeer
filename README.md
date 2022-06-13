@@ -8,19 +8,19 @@
 
 ### :rabbit2: My languages and tools:
 <div>
-<img src="https://img.shields.io/badge/-HTML5-f8f8f2?logo=HTML5&logoColor=ff6e96&style=flat&labelColor=282a36" />
-<img src="https://img.shields.io/badge/-CSS3-f8f8f2?logo=CSS3&logoColor=ff6e96&style=flat&labelColor=282a36" />
+<img src="https://img.shields.io/badge/-HTML5-282a36?logo=HTML5&logoColor=ff6e96&style=flat&labelColor=282a36" />
+<img src="https://img.shields.io/badge/-CSS3-282a36?logo=CSS3&logoColor=ff6e96&style=flat&labelColor=282a36" />
 
-<img src="https://img.shields.io/badge/-Sublime%20Text-f8f8f2?logo=Sublime-Text&logoColor=ff6e96&style=flat&labelColor=282a36" />
-<img src="https://img.shields.io/badge/-VS%20Code-f8f8f2?logo=Visual-Studio-Code&logoColor=ff6e96&style=flat&labelColor=282a36" />
+<img src="https://img.shields.io/badge/-Sublime%20Text-282a36?logo=Sublime-Text&logoColor=ff6e96&style=flat&labelColor=282a36" />
+<img src="https://img.shields.io/badge/-VS%20Code-282a36?logo=Visual-Studio-Code&logoColor=ff6e96&style=flat&labelColor=282a36" />
 
-<img src="https://img.shields.io/badge/-Adobe%20Illustrator-f8f8f2?logo=Adobe-Illustrator&logoColor=ff6e96&style=flat&labelColor=282a36" />
-<img src="https://img.shields.io/badge/-Adobe%20Photoshop-f8f8f2?logo=Adobe-Photoshop&logoColor=ff6e96&style=flat&labelColor=282a36" />
-<img src="https://img.shields.io/badge/-Adobe%20InDesign-f8f8f2?logo=Adobe-Indesign&logoColor=ff6e96&style=flat&labelColor=282a36" />
-<img src="https://img.shields.io/badge/-Adobe%20XD-f8f8f2?logo=Adobe-XD&logoColor=ff6e96&style=flat&labelColor=282a36" />
-<img src="https://img.shields.io/badge/-Affinity%20Photo-f8f8f2?logo=Affinity-Photo&logoColor=ff6e96&style=flat&labelColor=282a36" />
-<img src="https://img.shields.io/badge/-Affinity%20Designer-f8f8f2?logo=Affinity-Designer&logoColor=ff6e96&style=flat&labelColor=282a36" />
-<img src="https://img.shields.io/badge/-Affinity%20Publisher-f8f8f2?logo=Affinity-Publisher&logoColor=ff6e96&style=flat&labelColor=282a36" />
+<img src="https://img.shields.io/badge/-Adobe%20Illustrator-282a36?logo=Adobe-Illustrator&logoColor=ff6e96&style=flat&labelColor=282a36" />
+<img src="https://img.shields.io/badge/-Adobe%20Photoshop-282a36?logo=Adobe-Photoshop&logoColor=ff6e96&style=flat&labelColor=282a36" />
+<img src="https://img.shields.io/badge/-Adobe%20InDesign-282a36?logo=Adobe-Indesign&logoColor=ff6e96&style=flat&labelColor=282a36" />
+<img src="https://img.shields.io/badge/-Adobe%20XD-282a36?logo=Adobe-XD&logoColor=ff6e96&style=flat&labelColor=282a36" />
+<img src="https://img.shields.io/badge/-Affinity%20Photo-282a36?logo=Affinity-Photo&logoColor=ff6e96&style=flat&labelColor=282a36" />
+<img src="https://img.shields.io/badge/-Affinity%20Designer-282a36?logo=Affinity-Designer&logoColor=ff6e96&style=flat&labelColor=282a36" />
+<img src="https://img.shields.io/badge/-Affinity%20Publisher-282a36?logo=Affinity-Publisher&logoColor=ff6e96&style=flat&labelColor=282a36" />
 </div>
 
 <!---
