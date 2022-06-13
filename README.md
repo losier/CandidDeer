@@ -13,3 +13,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40px" />
 </div>
+
+<!---
+Dracula theme:
+title_color: "ff6e96",
+icon_color: "79dafa",
+text_color: "f8f8f2",
+bg_color: "282a36"
+--->
