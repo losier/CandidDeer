@@ -3,8 +3,8 @@
 ---
 
 ### :rabbit2: My stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CandidDeer&show_icons=true&theme=dracula&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CandidDeer&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CandidDeer&show_icons=true&theme=darcula&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CandidDeer&theme=darcula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :rabbit2: My languages and tools:
 <div>
