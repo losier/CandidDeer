@@ -23,6 +23,11 @@
 <img src="https://img.shields.io/badge/-Affinity%20Publisher-282a36?logo=Affinity-Publisher&logoColor=ff6e96&style=flat&labelColor=282a36" />
 </div>
 
+### :rabbit2: Get in touch with me:
+[![Instagram](https://img.shields.io/badge/-Instagram-282a36?logo=Instagram&logoColor=79dafa&style=flat&labelColor=282a36)](https://www.instagram.com/enelya1988/)
+[![Facebook](https://img.shields.io/badge/-Facebook-282a36?logo=Facebook&logoColor=79dafa&style=flat&labelColor=282a36)](https://www.facebook.com/lisa.thamer.loves/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-282a36?logo=LinkedIn&logoColor=79dafa&style=flat&labelColor=282a36)](https://www.linkedin.com/in/lisa-thamer-1330831a8/)
+
 <!---
 Dracula theme:
 title_color: "ff6e96",
