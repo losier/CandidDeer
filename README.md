@@ -6,6 +6,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CandidDeer&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CandidDeer&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
 ### :rabbit2: My languages and tools:
 <div>
 <img src="https://img.shields.io/badge/-HTML5-282a36?logo=HTML5&logoColor=ff6e96&style=flat&labelColor=282a36" />
@@ -22,6 +24,8 @@
 <img src="https://img.shields.io/badge/-Affinity%20Designer-282a36?logo=Affinity-Designer&logoColor=ff6e96&style=flat&labelColor=282a36" />
 <img src="https://img.shields.io/badge/-Affinity%20Publisher-282a36?logo=Affinity-Publisher&logoColor=ff6e96&style=flat&labelColor=282a36" />
 </div>
+
+---
 
 ### :rabbit2: Get in touch with me:
 [![Instagram](https://img.shields.io/badge/-Instagram-282a36?logo=Instagram&logoColor=79dafa&style=flat&labelColor=282a36)](https://www.instagram.com/enelya1988/)
