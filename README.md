@@ -28,7 +28,12 @@
 ---
 
 ### :rabbit2: Samples of my work:
-[![practice-four](https://img.shields.io/badge/-Hello%20Gatsby!-282a36?logo=GitHub&logoColor=79dafa&style=flat&labelColor=282a36)](https://candiddeer.github.io/practice-four/)
+[![practice-four](https://img.shields.io/badge/-Website%20idea-282a36?logo=GitHub&logoColor=79dafa&style=flat&labelColor=282a36)](https://candiddeer.github.io/practice-four/)
+[![practice-seven](https://img.shields.io/badge/-Website%20idea-282a36?logo=GitHub&logoColor=79dafa&style=flat&labelColor=282a36)](https://candiddeer.github.io/practice-seven/)
+[![CodePen](https://img.shields.io/badge/-CodePen%20profile-282a36?logo=CodePen&logoColor=79dafa&style=flat&labelColor=282a36)](https://codepen.io/lisa-thamer)
+<!--- 
+[![practice-eight](https://img.shields.io/badge/-Website%20idea-282a36?logo=GitHub&logoColor=79dafa&style=flat&labelColor=282a36)](https://candiddeer.github.io/practice-eight/)
+--->
 
 ---
 
