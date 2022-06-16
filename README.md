@@ -27,6 +27,11 @@
 
 ---
 
+### :rabbit2: Samples of my work:
+[![practice-four](https://img.shields.io/badge/-Hello%20Gatsby!-282a36?logo=GitHub&logoColor=79dafa&style=flat&labelColor=282a36)](https://candiddeer.github.io/practice-four/)
+
+---
+
 ### :rabbit2: Get in touch with me:
 [![Instagram](https://img.shields.io/badge/-Instagram-282a36?logo=Instagram&logoColor=79dafa&style=flat&labelColor=282a36)](https://www.instagram.com/enelya1988/)
 [![Facebook](https://img.shields.io/badge/-Facebook-282a36?logo=Facebook&logoColor=79dafa&style=flat&labelColor=282a36)](https://www.facebook.com/lisa.thamer.loves/)
