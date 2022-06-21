@@ -39,6 +39,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-282a36?logo=Instagram&logoColor=79dafa&style=flat&labelColor=282a36)](https://www.instagram.com/enelya1988/)
 [![Facebook](https://img.shields.io/badge/-Facebook-282a36?logo=Facebook&logoColor=79dafa&style=flat&labelColor=282a36)](https://www.facebook.com/lisa.thamer.loves/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-282a36?logo=LinkedIn&logoColor=79dafa&style=flat&labelColor=282a36)](https://www.linkedin.com/in/lisa-thamer)
+[![Twitter](https://img.shields.io/badge/-Twitter-282a36?logo=Twitter&logoColor=79dafa&style=flat&labelColor=282a36)](https://twitter.com/CandidDeer)
 
 <!---
 Dracula theme:
