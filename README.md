@@ -1,5 +1,5 @@
 ### Hi there,
-##### I'm Lisa, a passionate self-taught graphic designer taking her first baby steps in frontend web development.
+##### I'm Lisa, a passionate self-taught graphic designer taking her first steps in frontend web development.
 ---
 
 ### :rabbit2: My stats:
