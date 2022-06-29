@@ -1,5 +1,3 @@
-<!--- ![header image](https://) --->
-
 ### Hi there,
 ##### I'm Lisa, a passionate self-taught graphic designer taking her first steps in frontend web development. So far I'm proficient in HTML5 and CSS3 and will tackle JS next. I'm always looking for opportunities to learn more. In addition I'd love to help you out if you have issues with your website's front-end presentation or even graphic design-related issues. Hit me up!
 ---
