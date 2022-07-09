@@ -1,3 +1,7 @@
+<!---
+![Header image](header.png)
+--->
+
 ### Hi there,
 ##### I'm Lisa, a passionate self-taught graphic designer located in Austria (Europe) taking her first steps in frontend web development. I'm proficient in HTML5 and CSS3 and will tackle JS next. I'm always looking for opportunities to learn more. In addition, I'd love to help you out if you have issues with your website's frontend presentation or any graphic design-related issues. Hit me up! I'm always happy to connect and collaborate.
 ---
