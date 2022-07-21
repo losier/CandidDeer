@@ -1,5 +1,6 @@
 ### Hi there,
 ##### I'm Lisa, a passionate self-taught graphic designer located in Austria (Europe) taking her first steps in frontend web development. I'm proficient in HTML5 and CSS3 and will tackle JS next. I'm always looking for opportunities to learn more. In addition, I'd love to help you out if you have issues with your website's frontend or any graphic design-related issues. Hit me up! I'm always happy to connect and collaborate.
+
 ---
 
 ### :rabbit2: My stats:
@@ -35,16 +36,16 @@
 
 ---
 
-### :rabbit2: Projects I help maintain:
-[![Contribute-To-This-Project](https://img.shields.io/badge/-Contribute%20to%20this%20Project-282a36?logo=GitHub&logoColor=79dafa&style=flat&labelColor=282a36)](https://github.com/Syknapse/Contribute-To-This-Project)
-
----
-
 ### :rabbit2: Get in touch with me:
 [![Instagram](https://img.shields.io/badge/-Instagram-282a36?logo=Instagram&logoColor=79dafa&style=flat&labelColor=282a36)](https://www.instagram.com/enelya1988/)
 [![Facebook](https://img.shields.io/badge/-Facebook-282a36?logo=Facebook&logoColor=79dafa&style=flat&labelColor=282a36)](https://www.facebook.com/lisa.thamer.loves/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-282a36?logo=LinkedIn&logoColor=79dafa&style=flat&labelColor=282a36)](https://www.linkedin.com/in/lisa-thamer)
 [![Twitter](https://img.shields.io/badge/-Twitter-282a36?logo=Twitter&logoColor=79dafa&style=flat&labelColor=282a36)](https://twitter.com/CandidDeer)
+
+---
+
+### :rabbit2: Repositories I help maintain:
+[![Contribute-To-This-Project](https://img.shields.io/badge/-Contribute%20to%20this%20Project-282a36?logo=GitHub&logoColor=79dafa&style=flat&labelColor=282a36)](https://github.com/Syknapse/Contribute-To-This-Project)
 
 <!---
 Dracula theme:
