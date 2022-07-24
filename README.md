@@ -44,7 +44,7 @@
 
 ---
 
-### :rabbit2: Repositories I help maintain:
+### :rabbit2: Maintainer for:
 [![Contribute-To-This-Project](https://img.shields.io/badge/-Contribute%20to%20this%20Project-282a36?logo=GitHub&logoColor=ff6e96&style=flat&labelColor=282a36)](https://github.com/Syknapse/Contribute-To-This-Project)
 
 <!---
