@@ -32,7 +32,7 @@
 [![practice-four](https://img.shields.io/badge/-Website%20idea-282a36?logo=GitHub&logoColor=ff6e96&style=flat&labelColor=282a36)](https://candiddeer.github.io/practice-four/)
 [![practice-seven](https://img.shields.io/badge/-Website%20idea-282a36?logo=GitHub&logoColor=ff6e96&style=flat&labelColor=282a36)](https://candiddeer.github.io/practice-seven/)
 [![practice-eight](https://img.shields.io/badge/-Website%20idea-282a36?logo=GitHub&logoColor=ff6e96&style=flat&labelColor=282a36)](https://candiddeer.github.io/practice-eight/)
-[![lisa-thamer](https://img.shields.io/badge/-My%20portfolio-282a36?logo=Bootstrap&logoColor=ff6e96&style=flat&labelColor=282a36)](https://candiddeer.github.io/lisa-thamer/)
+<!--- [![lisa-thamer](https://img.shields.io/badge/-My%20portfolio-282a36?logo=Bootstrap&logoColor=ff6e96&style=flat&labelColor=282a36)](https://candiddeer.github.io/lisa-thamer/) --->
 [![CodePen](https://img.shields.io/badge/-CodePen%20profile-282a36?logo=CodePen&logoColor=ff6e96&style=flat&labelColor=282a36)](https://codepen.io/lisa-thamer)
 
 ---
