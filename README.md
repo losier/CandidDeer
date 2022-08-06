@@ -4,8 +4,8 @@
 ---
 
 ### :rabbit2: My stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CandidDeer&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CandidDeer&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CandidDeer&show_icons=true&title_color=ffe0b5&text_color=8e724d&icon_color=bd8a84&bg_color=000000&hide_border=true&include_all_commits=true)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CandidDeer&show_icons=true&title_color=ffe0b5&text_color=8e724d&icon_color=bd8a84&bg_color=000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -49,9 +49,10 @@
 [![Contribute-To-This-Project](https://img.shields.io/badge/-Contribute%20to%20this%20Project-282a36?logo=GitHub&logoColor=ff6e96&style=flat&labelColor=282a36)](https://github.com/Syknapse/Contribute-To-This-Project)
 
 <!---
-Dracula theme:
-title_color: "ff6e96",
-icon_color: "79dafa",
-text_color: "f8f8f2",
-bg_color: "282a36"
+Color scheme:
+Black: #000000;
+French bistre: #8e724d;
+Navajo white: #ffe0b5;
+Dark sienna: #350005;
+Rosy brown: #bd8a84;
 --->
