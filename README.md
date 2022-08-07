@@ -11,42 +11,42 @@
 
 ### :rabbit2: My languages and tools:
 <div>
-<img src="https://img.shields.io/badge/-HTML5-282a36?logo=HTML5&logoColor=79dafa&style=flat&labelColor=282a36" />
-<img src="https://img.shields.io/badge/-CSS3-282a36?logo=CSS3&logoColor=79dafa&style=flat&labelColor=282a36" />
+<img src="https://img.shields.io/badge/-HTML5-000000?logo=HTML5&logoColor=8e724d&style=flat&labelColor=000000" />
+<img src="https://img.shields.io/badge/-CSS3-000000?logo=CSS3&logoColor=8e724d&style=flat&labelColor=000000" />
 
-<img src="https://img.shields.io/badge/-Sublime%20Text-282a36?logo=Sublime-Text&logoColor=79dafa&style=flat&labelColor=282a36" />
-<img src="https://img.shields.io/badge/-VS%20Code-282a36?logo=Visual-Studio-Code&logoColor=79dafa&style=flat&labelColor=282a36" />
+<img src="https://img.shields.io/badge/-Sublime%20Text-000000?logo=Sublime-Text&logoColor=8e724d&style=flat&labelColor=000000" />
+<img src="https://img.shields.io/badge/-VS%20Code-000000?logo=Visual-Studio-Code&logoColor=8e724d&style=flat&labelColor=000000" />
 
-<img src="https://img.shields.io/badge/-Adobe%20Illustrator-282a36?logo=Adobe-Illustrator&logoColor=79dafa&style=flat&labelColor=282a36" />
-<img src="https://img.shields.io/badge/-Adobe%20Photoshop-282a36?logo=Adobe-Photoshop&logoColor=79dafa&style=flat&labelColor=282a36" />
-<img src="https://img.shields.io/badge/-Adobe%20InDesign-282a36?logo=Adobe-Indesign&logoColor=79dafa&style=flat&labelColor=282a36" />
-<img src="https://img.shields.io/badge/-Adobe%20XD-282a36?logo=Adobe-XD&logoColor=79dafa&style=flat&labelColor=282a36" />
-<img src="https://img.shields.io/badge/-Affinity%20Photo-282a36?logo=Affinity-Photo&logoColor=79dafa&style=flat&labelColor=282a36" />
-<img src="https://img.shields.io/badge/-Affinity%20Designer-282a36?logo=Affinity-Designer&logoColor=79dafa&style=flat&labelColor=282a36" />
-<img src="https://img.shields.io/badge/-Affinity%20Publisher-282a36?logo=Affinity-Publisher&logoColor=79dafa&style=flat&labelColor=282a36" />
+<img src="https://img.shields.io/badge/-Adobe%20Illustrator-000000?logo=Adobe-Illustrator&logoColor=8e724d&style=flat&labelColor=000000" />
+<img src="https://img.shields.io/badge/-Adobe%20Photoshop-000000?logo=Adobe-Photoshop&logoColor=8e724d&style=flat&labelColor=000000" />
+<img src="https://img.shields.io/badge/-Adobe%20InDesign-000000?logo=Adobe-Indesign&logoColor=8e724d&style=flat&labelColor=000000" />
+<img src="https://img.shields.io/badge/-Adobe%20XD-000000?logo=Adobe-XD&logoColor=8e724d&style=flat&labelColor=000000" />
+<img src="https://img.shields.io/badge/-Affinity%20Photo-000000?logo=Affinity-Photo&logoColor=8e724d&style=flat&labelColor=000000" />
+<img src="https://img.shields.io/badge/-Affinity%20Designer-000000?logo=Affinity-Designer&logoColor=8e724d&style=flat&labelColor=000000" />
+<img src="https://img.shields.io/badge/-Affinity%20Publisher-000000?logo=Affinity-Publisher&logoColor=8e724d&style=flat&labelColor=000000" />
 </div>
 
 ---
 
 ### :rabbit2: Samples of my work:
-[![practice-four](https://img.shields.io/badge/-Website%20idea-282a36?logo=GitHub&logoColor=ff6e96&style=flat&labelColor=282a36)](https://candiddeer.github.io/practice-four/)
-[![practice-seven](https://img.shields.io/badge/-Website%20idea-282a36?logo=GitHub&logoColor=ff6e96&style=flat&labelColor=282a36)](https://candiddeer.github.io/practice-seven/)
-[![practice-eight](https://img.shields.io/badge/-Website%20idea-282a36?logo=GitHub&logoColor=ff6e96&style=flat&labelColor=282a36)](https://candiddeer.github.io/practice-eight/)
-[![lisa-thamer](https://img.shields.io/badge/-My%20portfolio-282a36?logo=Bootstrap&logoColor=ff6e96&style=flat&labelColor=282a36)](https://candiddeer.github.io/lisa-thamer/)
-[![CodePen](https://img.shields.io/badge/-CodePen%20profile-282a36?logo=CodePen&logoColor=ff6e96&style=flat&labelColor=282a36)](https://codepen.io/lisa-thamer)
+[![practice-four](https://img.shields.io/badge/-Website%20idea-000000?logo=GitHub&logoColor=ffe0b5&style=flat&labelColor=000000)](https://candiddeer.github.io/practice-four/)
+[![practice-seven](https://img.shields.io/badge/-Website%20idea-000000?logo=GitHub&logoColor=ffe0b5&style=flat&labelColor=000000)](https://candiddeer.github.io/practice-seven/)
+[![practice-eight](https://img.shields.io/badge/-Website%20idea-000000?logo=GitHub&logoColor=ffe0b5&style=flat&labelColor=000000)](https://candiddeer.github.io/practice-eight/)
+[![lisa-thamer](https://img.shields.io/badge/-My%20portfolio-000000?logo=Bootstrap&logoColor=ffe0b5&style=flat&labelColor=000000)](https://candiddeer.github.io/lisa-thamer/)
+[![CodePen](https://img.shields.io/badge/-CodePen%20profile-000000?logo=CodePen&logoColor=ffe0b5&style=flat&labelColor=000000)](https://codepen.io/lisa-thamer)
 
 ---
 
 ### :rabbit2: Get in touch with me:
-[![Instagram](https://img.shields.io/badge/-Instagram-282a36?logo=Instagram&logoColor=79dafa&style=flat&labelColor=282a36)](https://www.instagram.com/enelya1988/)
-[![Facebook](https://img.shields.io/badge/-Facebook-282a36?logo=Facebook&logoColor=79dafa&style=flat&labelColor=282a36)](https://www.facebook.com/lisa.thamer.loves/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-282a36?logo=LinkedIn&logoColor=79dafa&style=flat&labelColor=282a36)](https://www.linkedin.com/in/lisa-thamer)
-[![Twitter](https://img.shields.io/badge/-Twitter-282a36?logo=Twitter&logoColor=79dafa&style=flat&labelColor=282a36)](https://twitter.com/CandidDeer)
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?logo=Instagram&logoColor=8e724d&style=flat&labelColor=000000)](https://www.instagram.com/enelya1988/)
+[![Facebook](https://img.shields.io/badge/-Facebook-000000?logo=Facebook&logoColor=8e724d&style=flat&labelColor=000000)](https://www.facebook.com/lisa.thamer.loves/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?logo=LinkedIn&logoColor=8e724d&style=flat&labelColor=000000)](https://www.linkedin.com/in/lisa-thamer)
+[![Twitter](https://img.shields.io/badge/-Twitter-000000?logo=Twitter&logoColor=8e724d&style=flat&labelColor=000000)](https://twitter.com/CandidDeer)
 
 ---
 
 ### :rabbit2: Maintainer for:
-[![Contribute-To-This-Project](https://img.shields.io/badge/-Contribute%20to%20this%20Project-282a36?logo=GitHub&logoColor=ff6e96&style=flat&labelColor=282a36)](https://github.com/Syknapse/Contribute-To-This-Project)
+[![Contribute-To-This-Project](https://img.shields.io/badge/-Contribute%20to%20this%20Project-000000?logo=GitHub&logoColor=ffe0b5&style=flat&labelColor=000000)](https://github.com/Syknapse/Contribute-To-This-Project)
 
 <!---
 Color scheme:
