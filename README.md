@@ -6,7 +6,10 @@
 ### :rabbit2: My stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CandidDeer&show_icons=true&title_color=ffe0b5&text_color=8e724d&icon_color=bd8a84&bg_color=000000&hide_border=true&include_all_commits=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CandidDeer&hide_border=true&date_format=j%20M%5B%20Y%5D&background=000000&stroke=000000&fire=bd8a84&currStreakNum=ffe0b5&sideNums=8e724d&sideLabels=8e724d&dates=bd8a84&ring=8e724d&currStreakLabel=ffe0b5)](https://git.io/streak-stats)
+
+<!---
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CandidDeer&show_icons=true&title_color=ffe0b5&text_color=8e724d&icon_color=bd8a84&bg_color=000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+--->
 
 ---
 
