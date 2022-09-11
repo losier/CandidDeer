@@ -33,10 +33,10 @@
 ---
 
 ### :rabbit2: Samples of my work:
-[![practice-four](https://img.shields.io/badge/-Website%20idea-000000?logo=GitHub&logoColor=ffe0b5&style=flat&labelColor=000000)](https://candiddeer.github.io/practice-four/)
-[![practice-seven](https://img.shields.io/badge/-Website%20idea-000000?logo=GitHub&logoColor=ffe0b5&style=flat&labelColor=000000)](https://candiddeer.github.io/practice-seven/)
-[![practice-eight](https://img.shields.io/badge/-Website%20idea-000000?logo=GitHub&logoColor=ffe0b5&style=flat&labelColor=000000)](https://candiddeer.github.io/practice-eight/)
 [![lisa-thamer](https://img.shields.io/badge/-My%20portfolio-000000?logo=Bootstrap&logoColor=ffe0b5&style=flat&labelColor=000000)](https://candiddeer.github.io/lisa-thamer/)
+[![poltergeist](https://img.shields.io/badge/-Sample%20page-000000?logo=GitHub&logoColor=ffe0b5&style=flat&labelColor=000000)](https://candiddeer.github.io/poltergeist/)
+[![practice-eight](https://img.shields.io/badge/-Sample%20page-000000?logo=GitHub&logoColor=ffe0b5&style=flat&labelColor=000000)](https://candiddeer.github.io/practice-eight/)
+[![practice-seven](https://img.shields.io/badge/-Sample%20page-000000?logo=GitHub&logoColor=ffe0b5&style=flat&labelColor=000000)](https://candiddeer.github.io/practice-seven/)
 [![CodePen](https://img.shields.io/badge/-CodePen%20profile-000000?logo=CodePen&logoColor=ffe0b5&style=flat&labelColor=000000)](https://codepen.io/lisa-thamer)
 
 ---
