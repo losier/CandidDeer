@@ -1,5 +1,5 @@
 ### Hi there,
-##### I'm Lisa, a passionate self-taught graphic designer located in Austria (Europe) taking her first steps in frontend web development. I'm proficient in HTML5 and CSS3 and am currently tackling JS. I'm always looking for opportunities to learn more. In addition, I'd love to help you out if you have issues with your website's frontend or any graphic design-related issues. Hit me up! I'm always happy to connect and collaborate.
+##### I'm Lisa, a passionate self-taught graphic designer located in Austria (Europe) taking my first steps in frontend web development. I'm proficient in HTML5 and CSS3 and am currently tackling JS. I'm always looking for opportunities to learn more. In addition, I'd love to help you out if you have issues with your website's frontend or any graphic design-related issues. Hit me up! I'm always happy to connect and collaborate.
 
 ---
 
