@@ -17,9 +17,10 @@
 <div>
 <img src="https://img.shields.io/badge/-HTML5-000000?logo=HTML5&logoColor=8e724d&style=flat&labelColor=000000" />
 <img src="https://img.shields.io/badge/-CSS3-000000?logo=CSS3&logoColor=8e724d&style=flat&labelColor=000000" />
+<img src="https://img.shields.io/badge/-JavaScript-000000?logo=JavaScript&logoColor=8e724d&style=flat&labelColor=000000" />
 
-<img src="https://img.shields.io/badge/-Sublime%20Text-000000?logo=Sublime-Text&logoColor=8e724d&style=flat&labelColor=000000" />
 <img src="https://img.shields.io/badge/-VS%20Code-000000?logo=Visual-Studio-Code&logoColor=8e724d&style=flat&labelColor=000000" />
+<img src="https://img.shields.io/badge/-Sublime%20Text-000000?logo=Sublime-Text&logoColor=8e724d&style=flat&labelColor=000000" />
 
 <img src="https://img.shields.io/badge/-Adobe%20Illustrator-000000?logo=Adobe-Illustrator&logoColor=8e724d&style=flat&labelColor=000000" />
 <img src="https://img.shields.io/badge/-Adobe%20Photoshop-000000?logo=Adobe-Photoshop&logoColor=8e724d&style=flat&labelColor=000000" />
