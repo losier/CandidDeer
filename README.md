@@ -61,6 +61,3 @@ Navajo white: #ffe0b5;
 Dark sienna: #350005;
 Rosy brown: #bd8a84;
 --->
-
-
-
