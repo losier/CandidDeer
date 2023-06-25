@@ -35,6 +35,7 @@
 
 ### :rabbit2: Samples of my work:
 [![lisa-thamer](https://img.shields.io/badge/-My%20portfolio-000000?logo=Bootstrap&logoColor=ffe0b5&style=flat&labelColor=000000)](https://ltdesign.work)
+[![fairyforest](https://img.shields.io/badge/-Sample%20page-000000?logo=GitHub&logoColor=ffe0b5&style=flat&labelColor=000000)](https://candiddeer.github.io/fairyforest/)
 [![poltergeist](https://img.shields.io/badge/-Sample%20page-000000?logo=GitHub&logoColor=ffe0b5&style=flat&labelColor=000000)](https://candiddeer.github.io/poltergeist/)
 [![practice-eight](https://img.shields.io/badge/-Sample%20page-000000?logo=GitHub&logoColor=ffe0b5&style=flat&labelColor=000000)](https://candiddeer.github.io/practice-eight/)
 [![practice-seven](https://img.shields.io/badge/-Sample%20page-000000?logo=GitHub&logoColor=ffe0b5&style=flat&labelColor=000000)](https://candiddeer.github.io/practice-seven/)
