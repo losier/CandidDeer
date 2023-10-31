@@ -44,10 +44,10 @@
 ---
 
 ### :rabbit2: Get in touch with me:
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?logo=Instagram&logoColor=8e724d&style=flat&labelColor=000000)](https://www.instagram.com/lt.design.official/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?logo=Instagram&logoColor=8e724d&style=flat&labelColor=000000)](https://www.instagram.com/CandidDeer/)
 [![Facebook](https://img.shields.io/badge/-Facebook-000000?logo=Facebook&logoColor=8e724d&style=flat&labelColor=000000)](https://www.facebook.com/lisa.thamer.loves/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?logo=LinkedIn&logoColor=8e724d&style=flat&labelColor=000000)](https://www.linkedin.com/in/lisa-thamer)
-[![Twitter](https://img.shields.io/badge/-Twitter-000000?logo=Twitter&logoColor=8e724d&style=flat&labelColor=000000)](https://twitter.com/CandidDeer)
+[![X](https://img.shields.io/badge/-X-000000?logo=X&logoColor=8e724d&style=flat&labelColor=000000)](https://x.com/CandidDeer)
 
 ---
 
