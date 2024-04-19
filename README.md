@@ -35,11 +35,12 @@
 
 ### :rabbit2: Samples of my work:
 [![lisa-thamer](https://img.shields.io/badge/-My%20portfolio-000000?logo=Bootstrap&logoColor=ffe0b5&style=flat&labelColor=000000)](https://ltdesign.work)
-[![fairyforest](https://img.shields.io/badge/-Sample%20page-000000?logo=GitHub&logoColor=ffe0b5&style=flat&labelColor=000000)](https://candiddeer.github.io/fairyforest/)
-[![poltergeist](https://img.shields.io/badge/-Sample%20page-000000?logo=GitHub&logoColor=ffe0b5&style=flat&labelColor=000000)](https://candiddeer.github.io/poltergeist/)
-[![practice-eight](https://img.shields.io/badge/-Sample%20page-000000?logo=GitHub&logoColor=ffe0b5&style=flat&labelColor=000000)](https://candiddeer.github.io/practice-eight/)
-[![practice-seven](https://img.shields.io/badge/-Sample%20page-000000?logo=GitHub&logoColor=ffe0b5&style=flat&labelColor=000000)](https://candiddeer.github.io/practice-seven/)
+[![fairyforest](https://img.shields.io/badge/-Fairy%20Forest%20(Sample%20Page)-000000?logo=GitHub&logoColor=ffe0b5&style=flat&labelColor=000000)](https://candiddeer.github.io/fairyforest/)
+[![poltergeist](https://img.shields.io/badge/-PolterGeist%20(Sample%20Page)-000000?logo=GitHub&logoColor=ffe0b5&style=flat&labelColor=000000)](https://candiddeer.github.io/poltergeist/)
+[![practice-eight](https://img.shields.io/badge/-Planet%20Neon%20(Sample%20Page)-000000?logo=GitHub&logoColor=ffe0b5&style=flat&labelColor=000000)](https://candiddeer.github.io/practice-eight/)
+[![practice-seven](https://img.shields.io/badge/-The%20Fluffle%20(Sample%20Page)-000000?logo=GitHub&logoColor=ffe0b5&style=flat&labelColor=000000)](https://candiddeer.github.io/practice-seven/)
 [![CodePen](https://img.shields.io/badge/-CodePen%20profile-000000?logo=CodePen&logoColor=ffe0b5&style=flat&labelColor=000000)](https://codepen.io/lisa-thamer)
+
 
 ---
 
